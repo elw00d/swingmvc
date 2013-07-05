@@ -1,0 +1,6 @@
+syntax: glob
+.idea/
+swingmvc-example/swingmvc-example.iml
+swingmvc-example/target/
+swingmvc/target/
+swingmvc/swingmvc.iml
